@@ -1,2 +1,3 @@
 # GUIWallet
-The cryptocurrency meant for mining and community.
+
+To get GUI Wallet go here: https://github.com/JormoCoin/GUIWallet/releases/.
